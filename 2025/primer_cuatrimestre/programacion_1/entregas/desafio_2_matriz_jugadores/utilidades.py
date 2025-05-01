@@ -1,4 +1,4 @@
-def mostrar_menu() -> int:
+def mostrar_menu() -> None:
     print("""1. Cargar datos de jugadores (nombre, apellido, edad, posición, goles)
 2. Ver matriz
 3. Modificar matriz
